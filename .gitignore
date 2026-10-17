@@ -24,6 +24,5 @@ dist-ssr
 *.sw?
 
 # Preview screenshots
-preview*.png
 output_screenshot.png
 
